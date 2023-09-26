@@ -22,7 +22,7 @@ public class StudentCourseRegistrationSystem {
                 "Wed/Fri 08:00 AM - 09.00 AM", 10));
 
         List<Student> students = new ArrayList<>();
-        students.add(new Student(101, "Dharmraj Zine"));
+        students.add(new Student(101, "Agrawal Gaurav"));
         students.add(new Student(102, "ABC XYZ"));
 
         Scanner sc = new Scanner(System.in);
